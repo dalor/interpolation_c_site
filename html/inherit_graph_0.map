@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classBase.html" title="Base" alt="" coords="5,81,57,108"/>
+<area shape="rect" id="node2" href="$classBezier.html" title="Bezier" alt="" coords="135,5,194,32"/>
+<area shape="rect" id="node3" href="$classLagranjPolinome.html" title="LagranjPolinome" alt="" coords="105,56,224,83"/>
+<area shape="rect" id="node4" href="$classLinear.html" title="Linear" alt="" coords="136,107,193,133"/>
+<area shape="rect" id="node5" href="$classSpline.html" title="Spline" alt="" coords="135,157,194,184"/>
+<area shape="rect" id="node6" href="$classCubicSpline.html" title="CubicSpline" alt="" coords="272,157,364,184"/>
+</map>
